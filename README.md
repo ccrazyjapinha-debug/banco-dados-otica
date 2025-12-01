@@ -1,4 +1,4 @@
-# 👓 Sistema Ótica - Atividade Prática IV
+# Sistema Ótica - Atividade Prática IV
 
 Projeto de Banco de Dados para gerenciamento de uma ótica (Clientes, Receitas, Vendas e Estoque).
 
